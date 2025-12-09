@@ -1,7 +1,7 @@
 set serveroutput on
 
 prompt Enter Employee Id :
-accept N number
+accept N
 
 declare
     did emp.eid%type;
